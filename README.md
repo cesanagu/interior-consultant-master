@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href=https://github.com/cesanagu/interior-consultant-master">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://cesanagu.github.io/interior-consultant-master/">
       Solution
     </a>
     <span> | </span>
